@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CountMyWords/static/css/main.a9e5d84c.css",
+    "main.js": "/CountMyWords/static/js/main.5393412f.js",
+    "static/js/488.9c92ff38.chunk.js": "/CountMyWords/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/CountMyWords/index.html",
+    "main.a9e5d84c.css.map": "/CountMyWords/static/css/main.a9e5d84c.css.map",
+    "main.5393412f.js.map": "/CountMyWords/static/js/main.5393412f.js.map",
+    "488.9c92ff38.chunk.js.map": "/CountMyWords/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e5d84c.css",
+    "static/js/main.5393412f.js"
+  ]
+}
